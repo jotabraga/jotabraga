@@ -1,4 +1,4 @@
-### Welcome! My name is Pedro Braga and I'm a full stack developer in training👋
+### Welcome! My name is Pedro Braga and I'm a full stack developer 👋
 
 - 🔭 I’m currently working on Responde Aí Bootcamp
 - 🌱 I'm currently learning full stack web development 
