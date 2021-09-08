@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: jpmbraga.feg@gmail.com 
 - 📫 Also on: [LinkedIn](https://www.linkedin.com/in/joaopedrobraga-engenharia/)
-- ⚡ Fun fact: I completed the 4 days Inca Trail (Peru)
+- ⚡ Nice fact: I completed the 4 days Inca Trail in Machu Picchu
 
 ### Reach me on LinkedIn:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
