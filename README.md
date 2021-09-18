@@ -1,6 +1,5 @@
 ### Welcome! My name is Pedro Braga and I'm a full stack developer 👋
 
-- 🔭 I’m currently working on Driven Bootcamp
 - 🌱 I'm currently learning full stack web development 
 - 👯 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: jpmbraga.feg@gmail.com 
