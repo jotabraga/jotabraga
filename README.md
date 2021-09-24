@@ -1,4 +1,4 @@
-### Welcome! My name is Pedro Braga and I'm a full stack developer 👋
+### Welcome! My name is Pedro Braga and I'm a full stack developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I'm currently learning full stack web development 
 - 👯 I’m looking to collaborate on full stack projects
@@ -7,7 +7,9 @@
 - ⚡ Nice fact: I completed the 4 days Inca Trail in Machu Picchu
 
 ### Reach me on LinkedIn:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/pedrobraga-fullstack/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <br />
 
