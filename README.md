@@ -1,7 +1,7 @@
 ### Welcome! My name is Pedro Braga and I'm a full stack developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-- 💸 I'm currently working at StoneCo payments 💚
-- 🌱 I've been learning full stack web development 
+- 💸 I'm currently working with blockchain projects
+- 🌱 I've been learning full cycle development 
 - 👯 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: jpmbraga.feg@gmail.com 
 - 📫 Also on: [LinkedIn](https://www.linkedin.com/in/joaopedrobraga-engenharia/)
