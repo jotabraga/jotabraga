@@ -1,8 +1,8 @@
 ### Welcome! My name is Pedro Braga and I'm a full stack developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-- 🧑‍💻 I'm currently working in full cycle/stack projects
-- 🧠 I've been learning full cycle development 
-- 👯 I’m looking to collaborate on full stack projects
+- 🧑‍💻 I'm currently working in full stack projects (page builder / automation tools)
+- 🧠 I've been learning large data processing (streams) / js advanced tools
+- 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: jpmbraga.feg@gmail.com 
 - 📫 Also on: [LinkedIn](https://www.linkedin.com/in/joaopedrobraga-engenharia/)
 - ⚡ Nice fact: I completed the 4 days Inca Trail in Machu Picchu
