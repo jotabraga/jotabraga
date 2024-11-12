@@ -4,7 +4,7 @@
 - 🧠 I've been learning large data processing (streams) / js advanced tools
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: jpmbraga.feg@gmail.com 
-- 📫 Also on: [LinkedIn](https://www.linkedin.com/in/joaopedrobraga-engenharia/)
+- 📫 Also on: [LinkedIn](https://www.linkedin.com/in/pedrobraga-fullstack/)
 - ⚡ Nice fact: I completed the 4 days Inca Trail in Machu Picchu
 
 ### Reach me:
